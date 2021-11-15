@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/moonpiderman/moonpiderman.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "이건 어디냐"
+masthead_title           : "성공의 반대는 도전하지 않는 것"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Bohyeon Moon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Back-end Dev."
   location         : "Goyang, Republic of Korea"
   email            :
