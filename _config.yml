@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/moonpiderman/moonpiderman.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "성공의 반대는 도전하지 않는 것"
+masthead_title           : "문파이더맨의 개발 Swing"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Bohyeon Moon"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Back-end Dev."
+  avatar           : "images/profile.jpeg"
+  bio              : "**Back-end Dev.**<br>성공의 반대는 도전하지 않는 것!"
   location         : "Goyang, Republic of Korea"
   email            :
   links:
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/moonpiderman"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/moonhulk"
 
 # Site Footer
 footer:
